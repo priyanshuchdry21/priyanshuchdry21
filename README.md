@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Priyanshu Chaudhary, a Computer Science Engineering (AI & ML) student and aspiring AI/ML Engineer. I enjoy building AI-powered applications using Python, Generative AI, RAG, Agentic AI, React, and Streamlit.<br><br>🔭 I’m currently working on Multi-Agent Research Systems and AI-powered applications  <br>👯 I’m looking to collaborate on Generative AI, RAG, Agentic AI, and ML projects  <br>🤝 I’m looking for help with deploying and improving LLM/RAG applications  <br>🌱 I’m currently learning Large Language Models, RAG, Agentic AI, and Deep Learning  <br>💬 Ask me about Python, React, Streamlit, JavaScript, and AI/ML fundamentals  <br>⚡ Fun fact: I enjoy turning AI ideas into practical web applications
 
 
