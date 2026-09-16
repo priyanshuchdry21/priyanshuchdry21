@@ -80,9 +80,9 @@
 
 - ISRO Internship — Indian Space Research Organisation (ISRO)
 - AWS Fundamentals of Machine Learning and Artificial Intelligence
-- AWS Building Language Models
 - Tata Forage - GenAI Powered Data Analytics Job Simulation
 - TCS iON Generative AI Essentials Certificate
+- AWS Building Language Models
 - HP LIFE Critical Thinking in the AI Era
 - Python Essentials 1 - Cisco Networking Academy
 
