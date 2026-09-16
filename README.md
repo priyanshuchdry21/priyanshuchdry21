@@ -83,9 +83,9 @@
 - Tata - GenAI Powered Data Analytics Job Simulation — Forage
 - Critical Thinking in the AI Era — HP LIFE
 - YUVA AI For All — IndiaAI
+- Python Essentials 1 — Cisco Networking Academy
 - Generative AI Essentials Certificate — TCS iON
 - AI and Cybersecurity Awareness — TCS iON
-- Python Essentials 1 — Cisco Networking Academy
 
 
 ## 🎯 Current Focus
