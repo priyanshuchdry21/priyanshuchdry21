@@ -25,14 +25,6 @@
 💬 Ask me about Python, React, FastAPI, Streamlit, JavaScript, and AI/ML fundamentals.  
 ⚡ Fun fact: I enjoy turning an unclear AI idea into a simple, usable web application.
 
-## 🚀 Projects
-
-| Project | Focus |
-| --- | --- |
-| **Employee Management System** | A web application for managing employee information and workflows. |
-| **Weather Forecast Application** | A web application for accessing weather forecast information. |
-| **Multi-Agent Research System** | An AI project exploring collaborative research workflows between multiple agents. |
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -64,6 +56,14 @@
 
 ---
 
+## 🚀 Projects
+
+| Project | Focus |
+| --- | --- |
+| **Employee Management System** | A web application for managing employee information and workflows. |
+| **Weather Forecast Application** | A web application for accessing weather forecast information. |
+| **Multi-Agent Research System** | An AI project exploring collaborative research workflows between multiple agents. |
+
 ## 📊 GitHub Analytics & Stats
 
 <div align="center">
@@ -76,31 +76,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuchdry21&theme=tokyonight" alt="GitHub profile summary" />
 </div>
 
-## 🏆 Certifications
+## Certifications
 
-- 🎓 **Fundamentals of Machine Learning and Artificial Intelligence**  
-  *Amazon Web Services (AWS) · Aug 2026*
-
-- 🤖 **Building Language Models on AWS**  
-  *Amazon Web Services (AWS) · Aug 2026*
-
-- 📊 **Tata - GenAI Powered Data Analytics Job Simulation**  
-  *Forage · Jun 2026*
-
-- 🧠 **Critical Thinking in the AI Era**  
-  *HP LIFE · Feb 2026*
-
-- 🤖 **YUVA AI For All**  
-  *IndiaAI · Feb 2026*
-
-- ✨ **Generative AI Essentials Certificate**  
-  *TCS iON · Jan 2026*
-
-- 🔐 **AI and Cybersecurity Awareness**  
-  *TCS iON · Jan 2026*
-
-- 🐍 **Python Essentials 1**  
-  *Cisco Networking Academy · Feb 2026*
+- Fundamentals of Machine Learning and Artificial Intelligence — AWS
+- Building Language Models on AWS — AWS
+- Tata - GenAI Powered Data Analytics Job Simulation — Forage
+- Critical Thinking in the AI Era — HP LIFE
+- YUVA AI For All — IndiaAI
+- Generative AI Essentials Certificate — TCS iON
+- AI and Cybersecurity Awareness — TCS iON
+- Python Essentials 1 — Cisco Networking Academy
 
 
 ## 🎯 Current Focus
