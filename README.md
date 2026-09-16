@@ -78,14 +78,14 @@
 
 ## Certifications
 
-- Fundamentals of Machine Learning and Artificial Intelligence — AWS
-- Building Language Models on AWS — AWS
-- Tata - GenAI Powered Data Analytics Job Simulation — Forage
-- Critical Thinking in the AI Era — HP LIFE
-- YUVA AI For All — IndiaAI
-- Python Essentials 1 — Cisco Networking Academy
-- Generative AI Essentials Certificate — TCS iON
-- AI and Cybersecurity Awareness — TCS iON
+- AWS Fundamentals of Machine Learning and Artificial Intelligence
+- AWS Building Language Models
+- Tata Forage - GenAI Powered Data Analytics Job Simulation
+- HP LIFE Critical Thinking in the AI Era
+- IndiaAI YUVA AI For All
+- Python Essentials 1 - Cisco Networking Academy
+- TCS iON Generative AI Essentials Certificate
+- TCS iON AI and Cybersecurity Awareness
 
 
 ## 🎯 Current Focus
