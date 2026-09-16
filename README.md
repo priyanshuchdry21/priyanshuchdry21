@@ -76,11 +76,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuchdry21&theme=tokyonight" alt="GitHub profile summary" />
 </div>
 
-## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuchdry21&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</div>
 
 ## 🎯 Current Focus
 
