@@ -76,13 +76,31 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuchdry21&theme=tokyonight" alt="GitHub profile summary" />
 </div>
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
-| Certification | Issued By | Certificate |
-|---|---|---|
-| TCS iON – YUVA AI | TCS iON | [View](LINK) |
-| Critical Thinking in the AI Era | Issuer | [View](LINK) |
-| ISRO Internship | ISRO | [View](LINK) |
+- 🎓 **Fundamentals of Machine Learning and Artificial Intelligence**  
+  *Amazon Web Services (AWS) · Aug 2026*
+
+- 🤖 **Building Language Models on AWS**  
+  *Amazon Web Services (AWS) · Aug 2026*
+
+- 📊 **Tata - GenAI Powered Data Analytics Job Simulation**  
+  *Forage · Jun 2026*
+
+- 🧠 **Critical Thinking in the AI Era**  
+  *HP LIFE · Feb 2026*
+
+- 🤖 **YUVA AI For All**  
+  *IndiaAI · Feb 2026*
+
+- ✨ **Generative AI Essentials Certificate**  
+  *TCS iON · Jan 2026*
+
+- 🔐 **AI and Cybersecurity Awareness**  
+  *TCS iON · Jan 2026*
+
+- 🐍 **Python Essentials 1**  
+  *Cisco Networking Academy · Feb 2026*
 
 
 ## 🎯 Current Focus
