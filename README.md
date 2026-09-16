@@ -16,7 +16,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 🔭 I’m currently building AI-powered web applications and exploring multi-agent research workflows.  
 👯 I’m open to collaborating on practical Generative AI, RAG, and Agentic AI projects.  
@@ -76,6 +76,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuchdry21&theme=tokyonight" alt="GitHub profile summary" />
 </div>
 
+## 🏆 Certifications & Achievements
+
+| Certification | Issued By | Certificate |
+|---|---|---|
+| TCS iON – YUVA AI | TCS iON | [View](LINK) |
+| Critical Thinking in the AI Era | Issuer | [View](LINK) |
+| ISRO Internship | ISRO | [View](LINK) |
 
 
 ## 🎯 Current Focus
