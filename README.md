@@ -1,15 +1,122 @@
-# 💫 About Me:
-🔭 I’m currently building AI-powered web applications and exploring multi-agent research workflows.<br>👯 I’m open to collaborating on practical Generative AI, RAG, and Agentic AI projects.<br>🤝 I’m looking to improve how LLM and RAG applications are evaluated, deployed, and made useful in real-world settings.<br>🌱 I’m currently learning deeper RAG patterns, agent orchestration, Large Language Models, and Deep Learning.<br>💬 Ask me about Python, React, FastAPI, Streamlit, JavaScript, and AI/ML fundamentals.<br>⚡ Fun fact: I enjoy turning an unclear AI idea into a simple, usable web application.
+<div align="center">
 
+# Hi, I'm Priyanshu Chaudhary 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-chaudhary-a98712286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshuchdry2006@gmail.com) 
+### B.Tech Final-Year Student · Computer Science (AI & ML)
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=priyanshuchdry21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=priyanshuchdry21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanshuchdry21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=Building+AI-powered+web+applications;Exploring+Generative+AI%2C+RAG+%26+Agentic+AI;Learning+by+shipping+practical+projects" alt="Typing SVG" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
+
+<a href="https://www.linkedin.com/in/priyanshu-chaudhary-a98712286"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:priyanshuchdry2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/priyanshuchdry21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
+
+---
+
+## 💫 About Me
+
+🔭 I’m currently building AI-powered web applications and exploring multi-agent research workflows.  
+👯 I’m open to collaborating on practical Generative AI, RAG, and Agentic AI projects.  
+🤝 I’m looking to improve how LLM and RAG applications are evaluated, deployed, and made useful in real-world settings.  
+🌱 I’m currently learning deeper RAG patterns, agent orchestration, Large Language Models, and Deep Learning.  
+💬 Ask me about Python, React, FastAPI, Streamlit, JavaScript, and AI/ML fundamentals.  
+⚡ Fun fact: I enjoy turning an unclear AI idea into a simple, usable web application.
+
+## 🚀 Projects
+
+| Project | Focus |
+| --- | --- |
+| **Employee Management System** | A web application for managing employee information and workflows. |
+| **Weather Forecast Application** | A web application for accessing weather forecast information. |
+| **Multi-Agent Research System** | An AI project exploring collaborative research workflows between multiple agents. |
+
+## 💻 Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Web & App Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+#### AI, Data & Databases
+![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0891B2?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Cloud & Developer Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics & Stats
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshuchdry21&theme=tokyonight" alt="Most-used languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=priyanshuchdry21&theme=tokyonight&hide_border=false" alt="Contribution streak" />
+  <br />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshuchdry21&theme=tokyonight" alt="GitHub statistics" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshuchdry21&theme=tokyonight&utcOffset=5.5" alt="Commit activity by time" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuchdry21&theme=tokyonight" alt="GitHub profile summary" />
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuchdry21&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</div>
+
+## 🎯 Current Focus
+
+```python
+class Priyanshu:
+    currently_building = [
+        "AI-powered web applications",
+        "Multi-agent research workflows",
+    ]
+
+    learning = [
+        "Large Language Models",
+        "RAG pipelines",
+        "Agent orchestration",
+        "Deep Learning",
+    ]
+
+    goal = "Build practical, reliable AI systems that people can use."
+```
+
+## 🤝 Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-chaudhary-a98712286"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:priyanshuchdry2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/priyanshuchdry21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+<div align="center">
+  <br />
+  <i>Building, learning, and shipping one useful idea at a time.</i>
+</div>
