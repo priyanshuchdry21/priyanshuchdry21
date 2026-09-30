@@ -77,7 +77,7 @@
 
 ## Certifications
 
-- ISRO Internship — Indian Space Research Organisation (ISRO)
+- ISRO AI/ML — Indian Space Research Organisation (ISRO)
 - AWS Fundamentals of Machine Learning and Artificial Intelligence
 - Tata Forage - GenAI Powered Data Analytics Job Simulation
 - TCS iON Generative AI Essentials Certificate
